@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Greetings of the day! 👋
+---
 <!--
 **Alpha3125/alpha3125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am an Integrated Masters graduate in Mathematics and Computer Science from the National Institute of Science Education and Re-
+search (NISER), Bhubaneswar, India. I am looking towards utilizing the knowledge of formal research and technological endeavors pursue
+a doctorate research in computer science. 
+
+I find my interests in both Theoretical Computer Science and Applied Robotics with the touch of Geometry and Algorithmic Design.
+I love programming and have keen interest in tech, robotics and other allied fields.
