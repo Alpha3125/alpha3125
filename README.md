@@ -12,8 +12,9 @@ I find my interests in both Theoretical Computer Science and Applied Robotics al
 I love programming and have a curiosity in technology, AI and a bit of every other science when they pop up during discussions.
 Although, I spend most of my time playing video games :) 
 
-#### Interests:
+#### Domains:
 
+* TCS
 * Creative Design
 * Geometry & Topology
 * Programming (& Coding)
