@@ -10,7 +10,7 @@ I am an Integrated Masters graduate in Mathematics and Computer Science from the
 
 I find my interests in both Theoretical Computer Science and Applied Robotics with a touch of Geometry and Algorithmic Designs.
 I love programming and have a curiosity in technology, AI and a bit of every other science when they pop up during discussions.
-Even so, I spend most of my time playing video games :) 
+Even so, I spend a chunk of time on video games :) 
 
 #### Places I love to manifest myself at:
 
