@@ -16,7 +16,7 @@ Even so, I spend a chunk of time on video games :)
 #### Places I love to manifest myself at:
 
 * TCS
-* Creative Tech
+* Cool & Creative Tech
 * Geometry & Topology
 * Programming (& Coding)
 * Robotics
